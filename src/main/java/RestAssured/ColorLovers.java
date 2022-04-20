@@ -33,7 +33,6 @@ public class ColorLovers {
 		
 		for (String numview : numViewsList) {
             int numViewsValue = Integer.parseInt(numview);
-        	System.out.println(numview);
             if (numViewsValue <= value){
                 
                 
